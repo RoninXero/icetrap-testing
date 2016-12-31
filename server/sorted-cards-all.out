@@ -1,6 +1,6 @@
 [
     {
-        "code": "01001",
+        "code": "0101",
         "phg_id": 31,
         "card_name": "Aradel Summergaard",
         "subname": "Phoenixborn of Evermist Valley",
@@ -29,7 +29,7 @@
         "flavor_text": "Be gone, interloper! This is where your trespass ends."
     },
     {
-        "code": "02001",
+        "code": "0201",
         "phg_id": 2139,
         "card_name": "Brennen Blackcloud",
         "subname": "Phoenixborn of Blackcloud",
@@ -58,7 +58,7 @@
         "flavor_text": "Render unto me all that I desire most."
     },
     {
-        "code": "01015",
+        "code": "0115",
         "phg_id": 1,
         "card_name": "Coal Roarkwin",
         "subname": "Phoenixborn of Rustwatch",
@@ -87,7 +87,7 @@
         "flavor_text": "You're out of your depth."
     },
     {
-        "code": "98001",
+        "code": "9801",
         "phg_id": 104,
         "card_name": "Dimona Odinstar",
         "subname": "PB of Rayward",
@@ -116,7 +116,7 @@
         "flavor_text": "Bow before the unyielding clarity of the light!"
     },
     {
-        "code": "01027",
+        "code": "0127",
         "phg_id": 40,
         "card_name": "Jessa Na Ni",
         "subname": "PB of the Bloodwoods Clan",
@@ -145,7 +145,7 @@
         "flavor_text": "I don't care who bleeds, so long as there's blood."
     },
     {
-        "code": "03001",
+        "code": "0301",
         "phg_id": 5208,
         "card_name": "Leo Sunshadow",
         "subname": "PB of Neverset",
@@ -174,7 +174,7 @@
         "flavor_text": "A flower to beg forgiveness, A kiss to preface bloodshed."
     },
     {
-        "code": "98003",
+        "code": "9803",
         "phg_id": 1437,
         "card_name": "Lulu Firststone",
         "subname": "PB of Gorrenrock",
@@ -203,7 +203,7 @@
         "flavor_text": "Well struck! Now it's my turn..."
     },
     {
-        "code": "01039",
+        "code": "0139",
         "phg_id": 66,
         "card_name": "Maeoni Viper",
         "subname": "PB of Silverwood",
@@ -232,7 +232,7 @@
         "flavor_text": "I defend this world and the next."
     },
     {
-        "code": "01052",
+        "code": "0152",
         "phg_id": 53,
         "card_name": "Noah Redmoon",
         "subname": "PB of Viros",
@@ -261,7 +261,7 @@
         "flavor_text": "You're deceived. Nothing in this world is worth saving."
     },
     {
-        "code": "98005",
+        "code": "9805",
         "phg_id": 5660,
         "card_name": "Orrick Gilstream",
         "subname": "PB of Gobi",
@@ -290,7 +290,7 @@
         "flavor_text": "Only in denying the Phoenix, can this world thrive."
     },
     {
-        "code": "02013",
+        "code": "0213",
         "phg_id": 2152,
         "card_name": "Rin Northfell",
         "subname": "PB of Frostdale",
@@ -319,7 +319,7 @@
         "flavor_text": "I'm trying not to laugh at how serious you look!"
     },
     {
-        "code": "01066",
+        "code": "0166",
         "phg_id": 13,
         "card_name": "Saria Guideman",
         "subname": "Phoenixborn of Lighthouse Bay",
@@ -348,7 +348,7 @@
         "flavor_text": "Darling, you're going to look like such a fright."
     },
     {
-        "code": "03015",
+        "code": "0315",
         "phg_id": 5149,
         "card_name": "Victoria Glassfire",
         "subname": "PB of Smogborough",
@@ -377,7 +377,7 @@
         "flavor_text": "I'm not crazy... just enthusiastic!"
     },
     {
-        "code": "01073",
+        "code": "0173",
         "phg_id": 18,
         "card_name": "Abundance",
         "subname": "NULL",
@@ -406,7 +406,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "03007",
+        "code": "0307",
         "phg_id": 5565,
         "card_name": "Amplify",
         "subname": "NULL",
@@ -435,7 +435,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01017",
+        "code": "0117",
         "phg_id": 4,
         "card_name": "Anchornaut",
         "subname": "NULL",
@@ -464,7 +464,7 @@
         "flavor_text": "The sea soon turns youth into old salt."
     },
     {
-        "code": "03002",
+        "code": "0302",
         "phg_id": 5209,
         "card_name": "Anguish",
         "subname": "NULL",
@@ -493,7 +493,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "03006",
+        "code": "0306",
         "phg_id": 5566,
         "card_name": "Beast Tamer",
         "subname": "NULL",
@@ -522,7 +522,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "02003",
+        "code": "0203",
         "phg_id": 2140,
         "card_name": "Blackcloud Ninja",
         "subname": "NULL",
@@ -551,7 +551,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01029",
+        "code": "0129",
         "phg_id": 43,
         "card_name": "Blood Archer",
         "subname": "NULL",
@@ -580,7 +580,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "02002",
+        "code": "0202",
         "phg_id": 2628,
         "card_name": "Blood Chains",
         "subname": "NULL",
@@ -609,7 +609,7 @@
         "flavor_text": "As one burden ends, another initiates."
     },
     {
-        "code": "01038",
+        "code": "0138",
         "phg_id": 45,
         "card_name": "Blood Puppet",
         "subname": "NULL",
@@ -638,7 +638,7 @@
         "flavor_text": "My puppets guarantee things get messy."
     },
     {
-        "code": "01035",
+        "code": "0135",
         "phg_id": 47,
         "card_name": "Blood Transfer",
         "subname": "NULL",
@@ -667,7 +667,7 @@
         "flavor_text": "Meat, blood, gristle... I manage my resources."
     },
     {
-        "code": "01012",
+        "code": "0112",
         "phg_id": 32,
         "card_name": "Blue Jaguar",
         "subname": "NULL",
@@ -696,7 +696,7 @@
         "flavor_text": "They can smell the water within your flesh!"
     },
     {
-        "code": "03018",
+        "code": "0318",
         "phg_id": 5325,
         "card_name": "Body Inversion",
         "subname": "NULL",
@@ -725,7 +725,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01053",
+        "code": "0153",
         "phg_id": 52,
         "card_name": "Bound Soul",
         "subname": "NULL",
@@ -754,7 +754,7 @@
         "flavor_text": "Death satisfies no debt owed to me."
     },
     {
-        "code": "01056",
+        "code": "0156",
         "phg_id": 56,
         "card_name": "Bring Forth",
         "subname": "NULL",
@@ -783,7 +783,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01013",
+        "code": "0113",
         "phg_id": 26,
         "card_name": "Butterfly Monk",
         "subname": "NULL",
@@ -812,7 +812,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01040",
+        "code": "0140",
         "phg_id": 68,
         "card_name": "Call Upon the Realms",
         "subname": "NULL",
@@ -841,7 +841,7 @@
         "flavor_text": "Behold Eternity and tremble!"
     },
     {
-        "code": "03003",
+        "code": "0303",
         "phg_id": 5564,
         "card_name": "Change Psyche",
         "subname": "NULL",
@@ -870,7 +870,7 @@
         "flavor_text": "Let us cast aside the earthly concerns that stifle you."
     },
     {
-        "code": "02009",
+        "code": "0209",
         "phg_id": 2362,
         "card_name": "Chant of Protection",
         "subname": "NULL",
@@ -899,7 +899,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01021",
+        "code": "0121",
         "phg_id": 5,
         "card_name": "Chant of Revenge",
         "subname": "NULL",
@@ -928,7 +928,7 @@
         "flavor_text": "Let death find the liars who called me brother."
     },
     {
-        "code": "02010",
+        "code": "0210",
         "phg_id": 2363,
         "card_name": "Chant of the Dead",
         "subname": "NULL",
@@ -957,7 +957,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "02008",
+        "code": "0208",
         "phg_id": 2884,
         "card_name": "Choke",
         "subname": "NULL",
@@ -986,7 +986,7 @@
         "flavor_text": "Ideas breed disloyalty and words are their foul seed."
     },
     {
-        "code": "02004",
+        "code": "0204",
         "phg_id": 2210,
         "card_name": "Crimson Bomber",
         "subname": "NULL",
@@ -1015,7 +1015,7 @@
         "flavor_text": "Bathe them in the glory of your martyred flesh."
     },
     {
-        "code": "02017",
+        "code": "0217",
         "phg_id": 2413,
         "card_name": "Crystal Shield",
         "subname": "NULL",
@@ -1044,7 +1044,7 @@
         "flavor_text": "Hey! Stop trying to kill all my stuff!"
     },
     {
-        "code": "01036",
+        "code": "0136",
         "phg_id": 41,
         "card_name": "Cut the Strings",
         "subname": "NULL",
@@ -1073,7 +1073,7 @@
         "flavor_text": "Sorry, precious. You life has better uses."
     },
     {
-        "code": "02018",
+        "code": "0218",
         "phg_id": 2568,
         "card_name": "Deep Freeze",
         "subname": "NULL",
@@ -1102,7 +1102,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "03004",
+        "code": "0304",
         "phg_id": 5402,
         "card_name": "Dispel",
         "subname": "NULL",
@@ -1131,7 +1131,7 @@
         "flavor_text": "I strip aside this petty facade so that we might revel in the essence of what is truly you."
     },
     {
-        "code": "02012",
+        "code": "0212",
         "phg_id": 2724,
         "card_name": "Dread Wraith",
         "subname": "NULL",
@@ -1160,7 +1160,7 @@
         "flavor_text": "Show them the futility of struggle."
     },
     {
-        "code": "01046",
+        "code": "0146",
         "phg_id": 69,
         "card_name": "Empower",
         "subname": "NULL",
@@ -1189,7 +1189,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01070",
+        "code": "0170",
         "phg_id": 19,
         "card_name": "Enchanted Violinist",
         "subname": "NULL",
@@ -1218,7 +1218,7 @@
         "flavor_text": "I know the arts aren't for everyone, but I kill those people."
     },
     {
-        "code": "01022",
+        "code": "0122",
         "phg_id": 6,
         "card_name": "Expand Energy",
         "subname": "NULL",
@@ -1247,7 +1247,7 @@
         "flavor_text": "Here's a little trick I learned."
     },
     {
-        "code": "01057",
+        "code": "0157",
         "phg_id": 59,
         "card_name": "Fade Away",
         "subname": "NULL",
@@ -1276,7 +1276,7 @@
         "flavor_text": "To die is not enough. You shall cease to have ever been."
     },
     {
-        "code": "01063",
+        "code": "0163",
         "phg_id": 57,
         "card_name": "False Demon",
         "subname": "NULL",
@@ -1305,7 +1305,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01028",
+        "code": "0128",
         "phg_id": 44,
         "card_name": "Fear",
         "subname": "NULL",
@@ -1334,7 +1334,7 @@
         "flavor_text": "Your minions have figured out what you cannot."
     },
     {
-        "code": "03019",
+        "code": "0319",
         "phg_id": 5643,
         "card_name": "Figures in the Fog",
         "subname": "NULL",
@@ -1363,7 +1363,7 @@
         "flavor_text": "You're flailing around all stupid like a stupid-head."
     },
     {
-        "code": "01033",
+        "code": "0133",
         "phg_id": 48,
         "card_name": "Final Cry",
         "subname": "NULL",
@@ -1392,7 +1392,7 @@
         "flavor_text": "Drag them down with you."
     },
     {
-        "code": "02005",
+        "code": "0205",
         "phg_id": 2506,
         "card_name": "Fire Archer",
         "subname": "NULL",
@@ -1421,7 +1421,7 @@
         "flavor_text": "A life can only find value in service to Blackcloud."
     },
     {
-        "code": "03017",
+        "code": "0317",
         "phg_id": 5644,
         "card_name": "Flash Archer",
         "subname": "NULL",
@@ -1450,7 +1450,7 @@
         "flavor_text": "Stings a little more the second time, doesn't it?"
     },
     {
-        "code": "02014",
+        "code": "0214",
         "phg_id": 2936,
         "card_name": "Freezing Blast",
         "subname": "NULL",
@@ -1479,7 +1479,7 @@
         "flavor_text": "Your toys are boring. Let's play with something else."
     },
     {
-        "code": "02021",
+        "code": "0221",
         "phg_id": 2772,
         "card_name": "Frost Bite",
         "subname": "NULL",
@@ -1508,7 +1508,7 @@
         "flavor_text": "You'll find Northerners can be annoyingly literal."
     },
     {
-        "code": "02016",
+        "code": "0216",
         "phg_id": 2261,
         "card_name": "Frost Fang",
         "subname": "NULL",
@@ -1537,7 +1537,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "02024",
+        "code": "0224",
         "phg_id": 2262,
         "card_name": "Frostback Bear",
         "subname": "NULL",
@@ -1566,7 +1566,7 @@
         "flavor_text": "I've got giant ice bears, and it feels good saying that."
     },
     {
-        "code": "02019",
+        "code": "0219",
         "phg_id": 2414,
         "card_name": "Frozen Crown",
         "subname": "NULL",
@@ -1595,7 +1595,7 @@
         "flavor_text": "Now who's my fancy looking murder machine?"
     },
     {
-        "code": "01050",
+        "code": "0150",
         "phg_id": 70,
         "card_name": "Gilder",
         "subname": "NULL",
@@ -1624,7 +1624,7 @@
         "flavor_text": "They safeguard a power beyond any of us."
     },
     {
-        "code": "03012",
+        "code": "0312",
         "phg_id": 5207,
         "card_name": "Glow Finch",
         "subname": "NULL",
@@ -1653,7 +1653,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "98006",
+        "code": "9806",
         "phg_id": 99999,
         "card_name": "Gobi Sunshield",
         "subname": "NULL",
@@ -1682,7 +1682,7 @@
         "flavor_text": "We were raised together as children, and now we seek to save the world together."
     },
     {
-        "code": "01045",
+        "code": "0145",
         "phg_id": 71,
         "card_name": "Golden Veil",
         "subname": "NULL",
@@ -1711,7 +1711,7 @@
         "flavor_text": "No."
     },
     {
-        "code": "01018",
+        "code": "0118",
         "phg_id": 7,
         "card_name": "Hammer Knight",
         "subname": "NULL",
@@ -1740,7 +1740,7 @@
         "flavor_text": "They pummeled the chimera. Now they'll pummel you!"
     },
     {
-        "code": "01067",
+        "code": "0167",
         "phg_id": 20,
         "card_name": "Hidden Power",
         "subname": "NULL",
@@ -1769,7 +1769,7 @@
         "flavor_text": "Sometimes I blush at my own competence."
     },
     {
-        "code": "01047",
+        "code": "0147",
         "phg_id": 72,
         "card_name": "Hypnotize",
         "subname": "NULL",
@@ -1798,7 +1798,7 @@
         "flavor_text": "Step aside. I have something precious for your master."
     },
     {
-        "code": "02025",
+        "code": "0225",
         "phg_id": 2151,
         "card_name": "Ice Buff",
         "subname": "NULL",
@@ -1827,7 +1827,7 @@
         "flavor_text": "Toughen up and kill something, would ya?"
     },
     {
-        "code": "02026",
+        "code": "0226",
         "phg_id": 2722,
         "card_name": "Ice Golem",
         "subname": "NULL",
@@ -1856,7 +1856,7 @@
         "flavor_text": "They're tough like me, but without the raw charisma."
     },
     {
-        "code": "02020",
+        "code": "0220",
         "phg_id": 2567,
         "card_name": "Ice Trap",
         "subname": "NULL",
@@ -1885,7 +1885,7 @@
         "flavor_text": "Aw, I'm sure he'll learn to fly one day."
     },
     {
-        "code": "03016",
+        "code": "0316",
         "phg_id": 5150,
         "card_name": "Illusionary Cycle",
         "subname": "NULL",
@@ -1914,7 +1914,7 @@
         "flavor_text": "I'm not ready to stop yet!"
     },
     {
-        "code": "01026",
+        "code": "0126",
         "phg_id": 8,
         "card_name": "Iron Rhino",
         "subname": "NULL",
@@ -1943,7 +1943,7 @@
         "flavor_text": "Welcome to Rustwatch, you bastards!"
     },
     {
-        "code": "01019",
+        "code": "0119",
         "phg_id": 10,
         "card_name": "Iron Worker",
         "subname": "NULL",
@@ -1972,7 +1972,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01030",
+        "code": "0130",
         "phg_id": 42,
         "card_name": "Leech Warrior",
         "subname": "NULL",
@@ -2001,7 +2001,7 @@
         "flavor_text": "You'll find killing them to be exhausting work."
     },
     {
-        "code": "01031",
+        "code": "0131",
         "phg_id": 49,
         "card_name": "Living Doll",
         "subname": "NULL",
@@ -2030,7 +2030,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01064",
+        "code": "0164",
         "phg_id": 54,
         "card_name": "Masked Wolf",
         "subname": "NULL",
@@ -2059,7 +2059,7 @@
         "flavor_text": "Look past reality. You'll see my wolves stalking you."
     },
     {
-        "code": "01005",
+        "code": "0105",
         "phg_id": 28,
         "card_name": "Massive Growth",
         "subname": "NULL",
@@ -2088,7 +2088,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "03009",
+        "code": "0309",
         "phg_id": 5399,
         "card_name": "Memory Theft",
         "subname": "NULL",
@@ -2117,7 +2117,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "03005",
+        "code": "0305",
         "phg_id": 5401,
         "card_name": "Mind Probe",
         "subname": "NULL",
@@ -2146,7 +2146,7 @@
         "flavor_text": "You feel it, don't you? Like a lover's fingers running through your hair."
     },
     {
-        "code": "01014",
+        "code": "0114",
         "phg_id": 27,
         "card_name": "Mist Spirit",
         "subname": "NULL",
@@ -2175,7 +2175,7 @@
         "flavor_text": "Small? Yes. But as infinite as the mists themselves."
     },
     {
-        "code": "01002",
+        "code": "0102",
         "phg_id": 29,
         "card_name": "Mist Typhoon",
         "subname": "NULL",
@@ -2204,7 +2204,7 @@
         "flavor_text": "I shall cleanse this valley of your filth."
     },
     {
-        "code": "01041",
+        "code": "0141",
         "phg_id": 73,
         "card_name": "Molten Gold",
         "subname": "NULL",
@@ -2233,7 +2233,7 @@
         "flavor_text": "If gold is what your desire..."
     },
     {
-        "code": "03013",
+        "code": "0313",
         "phg_id": 5696,
         "card_name": "Nightshade Swallow",
         "subname": "NULL",
@@ -2262,7 +2262,7 @@
         "flavor_text": "It is exquisite finality draped in a gentle kiss."
     },
     {
-        "code": "01016",
+        "code": "0116",
         "phg_id": 3,
         "card_name": "One Hundred Blades",
         "subname": "NULL",
@@ -2291,7 +2291,7 @@
         "flavor_text": "I cleansed an ocean of beasts once. Like this!"
     },
     {
-        "code": "01042",
+        "code": "0142",
         "phg_id": 74,
         "card_name": "Open Memories",
         "subname": "NULL",
@@ -2320,7 +2320,7 @@
         "flavor_text": "I have spent a lifetime preparing for this moment."
     },
     {
-        "code": "03014",
+        "code": "0314",
         "phg_id": 5698,
         "card_name": "Orchid Dove",
         "subname": "NULL",
@@ -2349,7 +2349,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01003",
+        "code": "0103",
         "phg_id": 30,
         "card_name": "Out of the Mist",
         "subname": "NULL",
@@ -2378,7 +2378,7 @@
         "flavor_text": "When the mists close in, the screaming begins."
     },
     {
-        "code": "03020",
+        "code": "0320",
         "phg_id": 5562,
         "card_name": "Particle Shield",
         "subname": "NULL",
@@ -2407,7 +2407,7 @@
         "flavor_text": "I can't murder you if you keep killing my things!"
     },
     {
-        "code": "98004",
+        "code": "9804",
         "phg_id": 1438,
         "card_name": "Phoenix Barrage",
         "subname": "NULL",
@@ -2436,7 +2436,7 @@
         "flavor_text": "You fail to understand what we are."
     },
     {
-        "code": "02006",
+        "code": "0206",
         "phg_id": 2211,
         "card_name": "Poison",
         "subname": "NULL",
@@ -2465,7 +2465,7 @@
         "flavor_text": "Even now I fester within the hearts of your friends."
     },
     {
-        "code": "01023",
+        "code": "0123",
         "phg_id": 11,
         "card_name": "Protect",
         "subname": "NULL",
@@ -2494,7 +2494,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01074",
+        "code": "0174",
         "phg_id": 21,
         "card_name": "Purge",
         "subname": "NULL",
@@ -2523,7 +2523,7 @@
         "flavor_text": "Poor child, you've been thinking on your own again."
     },
     {
-        "code": "98002",
+        "code": "9802",
         "phg_id": 105,
         "card_name": "Rayward Knight",
         "subname": "NULL",
@@ -2552,7 +2552,7 @@
         "flavor_text": "I point, and they will see it dead."
     },
     {
-        "code": "01034",
+        "code": "0134",
         "phg_id": 50,
         "card_name": "Redirect",
         "subname": "NULL",
@@ -2581,7 +2581,7 @@
         "flavor_text": "If I die, it will be by my choosing."
     },
     {
-        "code": "01006",
+        "code": "0106",
         "phg_id": 33,
         "card_name": "Reflections in the Water",
         "subname": "NULL",
@@ -2610,7 +2610,7 @@
         "flavor_text": "Your soul is drowning in the life you've squandered."
     },
     {
-        "code": "01043",
+        "code": "0143",
         "phg_id": 75,
         "card_name": "Refresh",
         "subname": "NULL",
@@ -2639,7 +2639,7 @@
         "flavor_text": "Arise anew my friend. Justice cannot rest."
     },
     {
-        "code": "02007",
+        "code": "0207",
         "phg_id": 2627,
         "card_name": "Regress",
         "subname": "NULL",
@@ -2668,7 +2668,7 @@
         "flavor_text": "And just like that, your efforts are for naught."
     },
     {
-        "code": "03008",
+        "code": "0308",
         "phg_id": 5695,
         "card_name": "Remorse",
         "subname": "NULL",
@@ -2697,7 +2697,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "02015",
+        "code": "0215",
         "phg_id": 2153,
         "card_name": "Rin's Fury",
         "subname": "NULL",
@@ -2726,7 +2726,7 @@
         "flavor_text": "I'm going to straight-up slaughter you!"
     },
     {
-        "code": "01007",
+        "code": "0107",
         "phg_id": 34,
         "card_name": "Root Armor",
         "subname": "NULL",
@@ -2755,7 +2755,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01071",
+        "code": "0171",
         "phg_id": 22,
         "card_name": "Rose Fire Dancer",
         "subname": "NULL",
@@ -2784,7 +2784,7 @@
         "flavor_text": "An inspiring dedication to dance and murder."
     },
     {
-        "code": "01068",
+        "code": "0168",
         "phg_id": 23,
         "card_name": "Seal",
         "subname": "NULL",
@@ -2813,7 +2813,7 @@
         "flavor_text": "Now do try to keep a civil tongue."
     },
     {
-        "code": "01077",
+        "code": "0177",
         "phg_id": 14,
         "card_name": "Seaside Raven",
         "subname": "NULL",
@@ -2842,7 +2842,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "03022",
+        "code": "0322",
         "phg_id": 5561,
         "card_name": "Secret Door",
         "subname": "NULL",
@@ -2871,7 +2871,7 @@
         "flavor_text": "Bet you'll never guess where this door takes me!"
     },
     {
-        "code": "01058",
+        "code": "0158",
         "phg_id": 60,
         "card_name": "Shadow Counter",
         "subname": "NULL",
@@ -2900,7 +2900,7 @@
         "flavor_text": "Your every success furthers my purposes."
     },
     {
-        "code": "03026",
+        "code": "0326",
         "phg_id": 5323,
         "card_name": "Shadow Hound",
         "subname": "NULL",
@@ -2929,7 +2929,7 @@
         "flavor_text": "The first time I made one of these things, I threw up a little. So I made a bunch more!"
     },
     {
-        "code": "03027",
+        "code": "0327",
         "phg_id": 5321,
         "card_name": "Shadow Spirit",
         "subname": "NULL",
@@ -2958,7 +2958,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01008",
+        "code": "0108",
         "phg_id": 35,
         "card_name": "Shifting Mist",
         "subname": "NULL",
@@ -2987,7 +2987,7 @@
         "flavor_text": "Within the mists, even Truth can be reborn."
     },
     {
-        "code": "01051",
+        "code": "0151",
         "phg_id": 67,
         "card_name": "Silver Snake",
         "subname": "NULL",
@@ -3016,7 +3016,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01065",
+        "code": "0165",
         "phg_id": 58,
         "card_name": "Sleeping Widow",
         "subname": "NULL",
@@ -3045,7 +3045,7 @@
         "flavor_text": "I love fighters with an incubation period."
     },
     {
-        "code": "01054",
+        "code": "0154",
         "phg_id": 61,
         "card_name": "Sleight of Hand",
         "subname": "NULL",
@@ -3074,7 +3074,7 @@
         "flavor_text": "And still you try to fathom what I am about"
     },
     {
-        "code": "01060",
+        "code": "0160",
         "phg_id": 62,
         "card_name": "Small Sacrifice",
         "subname": "NULL",
@@ -3103,7 +3103,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01020" ,
+        "code": "0120" ,
         "phg_id": 12,
         "card_name": "Spiked Armor",
         "subname": "NULL",
@@ -3132,7 +3132,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01004",
+        "code": "0104",
         "phg_id": 36,
         "card_name": "Steady Gaze",
         "subname": "NULL",
@@ -3161,7 +3161,7 @@
         "flavor_text": "Quiet your mind. Listen to my words."
     },
     {
-        "code": "01055",
+        "code": "0155",
         "phg_id": 63,
         "card_name": "Stormwind Sniper",
         "subname": "NULL",
@@ -3190,7 +3190,7 @@
         "flavor_text": "You'll know they're here when the bolt hits your head."
     },
     {
-        "code": "01069",
+        "code": "0169",
         "phg_id": 25,
         "card_name": "Strange Copy",
         "subname": "NULL",
@@ -3219,7 +3219,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01025",
+        "code": "0125",
         "phg_id": 2,
         "card_name": "Strengthen",
         "subname": "NULL",
@@ -3248,7 +3248,7 @@
         "flavor_text": "Now give 'em hell!"
     },
     {
-        "code": "01037",
+        "code": "0137",
         "phg_id": 46,
         "card_name": "Summon Blood Puppet",
         "subname": "NULL",
@@ -3277,7 +3277,7 @@
         "flavor_text": "A veritable army flows through my veins."
     },
     {
-        "code": "01009",
+        "code": "0109",
         "phg_id": 37,
         "card_name": "Summon Blue Jaguar",
         "subname": "NULL",
@@ -3306,7 +3306,7 @@
         "flavor_text": "The valley itself shall rise against the foe!"
     },
     {
-        "code": "01010",
+        "code": "0110",
         "phg_id": 38,
         "card_name": "Summon Butterfly Monk",
         "subname": "NULL",
@@ -3335,7 +3335,7 @@
         "flavor_text": "Heed our ancient pact and aid me now!"
     },
     {
-        "code": "02011",
+        "code": "0211",
         "phg_id": 2725,
         "card_name": "Summon Dread Wraith",
         "subname": "NULL",
@@ -3364,7 +3364,7 @@
         "flavor_text": "Your hunger shall not be assuaged, but you will seek it nonetheless."
     },
     {
-        "code": "01061",
+        "code": "0161",
         "phg_id": 64,
         "card_name": "Summon False Demon",
         "subname": "NULL",
@@ -3393,7 +3393,7 @@
         "flavor_text": "It is nothing at all, yet it is everything you fear."
     },
     {
-        "code": "02022",
+        "code": "0222",
         "phg_id": 2263,
         "card_name": "Summon Frostback Bear",
         "subname": "NULL",
@@ -3422,7 +3422,7 @@
         "flavor_text": "The North incarnate."
     },
     {
-        "code": "01048",
+        "code": "0148",
         "phg_id": 76,
         "card_name": "Summon Gilder",
         "subname": "NULL",
@@ -3451,7 +3451,7 @@
         "flavor_text": "The children of the next world rally to me."
     },
     {
-        "code": "02023",
+        "code": "0223",
         "phg_id": 2723,
         "card_name": "Summon Ice Golem",
         "subname": "NULL",
@@ -3480,7 +3480,7 @@
         "flavor_text": "Once frost takes hold of something, it grows n' grows."
     },
     {
-        "code": "01024",
+        "code": "0124",
         "phg_id": 9,
         "card_name": "Summon Iron Rhino",
         "subname": "NULL",
@@ -3509,7 +3509,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01062",
+        "code": "0162",
         "phg_id": 55,
         "card_name": "Summon Masked Wolf",
         "subname": "NULL",
@@ -3538,7 +3538,7 @@
         "flavor_text": "When they kill you, you will not see them."
     },
     {
-        "code": "01011",
+        "code": "0111",
         "phg_id": 39,
         "card_name": "Summon Mist Spirit",
         "subname": "NULL",
@@ -3567,7 +3567,7 @@
         "flavor_text": "The enemy has come. To me, my little friends!"
     },
     {
-        "code": "03010",
+        "code": "0310",
         "phg_id": 5697,
         "card_name": "Summon Nightshade Swallow",
         "subname": "NULL",
@@ -3596,7 +3596,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "03011",
+        "code": "0311",
         "phg_id": 5699,
         "card_name": "Summon Orchid Dove",
         "subname": "NULL",
@@ -3625,7 +3625,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01075",
+        "code": "0175",
         "phg_id": 15,
         "card_name": "Summon Seaside Raven",
         "subname": "NULL",
@@ -3654,7 +3654,7 @@
         "flavor_text": "Swift, beautiful and carnivorous."
     },
     {
-        "code": "03023",
+        "code": "0323",
         "phg_id": 5324,
         "card_name": "Summon Shadow Hound",
         "subname": "NULL",
@@ -3683,7 +3683,7 @@
         "flavor_text": "My imaginary play thing is gonna destroy you for reals!"
     },
     {
-        "code": "03024",
+        "code": "0324",
         "phg_id": 5322,
         "card_name": "Summon Shadow Spirit",
         "subname": "NULL",
@@ -3712,7 +3712,7 @@
         "flavor_text": "You probably don't think of shadows as cute, but they are. You know what else are cute? Puppies! Why are we talking about puppies?"
     },
     {
-        "code": "01049",
+        "code": "0149",
         "phg_id": 77,
         "card_name": "Summon Silver Snake",
         "subname": "NULL",
@@ -3741,7 +3741,7 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "01059",
+        "code": "0159",
         "phg_id": 65,
         "card_name": "Summon Sleeping Widows",
         "subname": "NULL",
@@ -3770,7 +3770,7 @@
         "flavor_text": "Even my schemes have schemes."
     },
     {
-        "code": "01076",
+        "code": "0176",
         "phg_id": 17,
         "card_name": "Summon Three-Eyed Owl",
         "subname": "NULL",
@@ -3799,7 +3799,7 @@
         "flavor_text": "Owls are such lovely little entrail-eaters aren't they?"
     },
     {
-        "code": "01072",
+        "code": "0172",
         "phg_id": 24,
         "card_name": "Sympathy Pain",
         "subname": "NULL",
@@ -3828,7 +3828,7 @@
         "flavor_text": "No, no dear. That's not how it's done. This is!"
     },
     {
-        "code": "01078",
+        "code": "0178",
         "phg_id": 16,
         "card_name": "Three-Eyed Owl",
         "subname": "NULL",
@@ -3857,7 +3857,7 @@
         "flavor_text": "My owls respectfully ask you to reconsider."
     },
     {
-        "code": "03025",
+        "code": "0325",
         "phg_id": 5645,
         "card_name": "To Shadows",
         "subname": "NULL",
@@ -3886,7 +3886,7 @@
         "flavor_text": "You seem so sure about what's real and what isn't."
     },
     {
-        "code": "01044",
+        "code": "0144",
         "phg_id": 78,
         "card_name": "Transfer",
         "subname": "NULL",
@@ -3915,7 +3915,7 @@
         "flavor_text": "Oh, I think we can do better, don't you?"
     },
     {
-        "code": "01032",
+        "code": "0132",
         "phg_id": 51,
         "card_name": "Undying Heart",
         "subname": "NULL",
@@ -3944,7 +3944,7 @@
         "flavor_text": "This meat is still yet mine."
     },
     {
-        "code": "03021",
+        "code": "0321",
         "phg_id": 5563,
         "card_name": "Vanish",
         "subname": "NULL",
