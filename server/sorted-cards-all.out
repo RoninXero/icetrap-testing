@@ -1,6 +1,7 @@
 [
     {
         "code": "0101",
+        "id": 0101,
         "phg_id": 31,
         "card_name": "Aradel Summergaard",
         "subname": "Phoenixborn of Evermist Valley",
@@ -30,6 +31,7 @@
     },
     {
         "code": "0201",
+        "id": 0201,
         "phg_id": 2139,
         "card_name": "Brennen Blackcloud",
         "subname": "Phoenixborn of Blackcloud",
@@ -59,6 +61,7 @@
     },
     {
         "code": "0115",
+        "id": 0115,
         "phg_id": 1,
         "card_name": "Coal Roarkwin",
         "subname": "Phoenixborn of Rustwatch",
@@ -88,6 +91,7 @@
     },
     {
         "code": "9801",
+        "id": 9801,
         "phg_id": 104,
         "card_name": "Dimona Odinstar",
         "subname": "PB of Rayward",
@@ -117,6 +121,7 @@
     },
     {
         "code": "0127",
+        "id": 0127,
         "phg_id": 40,
         "card_name": "Jessa Na Ni",
         "subname": "PB of the Bloodwoods Clan",
@@ -146,6 +151,7 @@
     },
     {
         "code": "0301",
+        "id": 0301,
         "phg_id": 5208,
         "card_name": "Leo Sunshadow",
         "subname": "PB of Neverset",
@@ -175,6 +181,7 @@
     },
     {
         "code": "9803",
+        "id": 9803,
         "phg_id": 1437,
         "card_name": "Lulu Firststone",
         "subname": "PB of Gorrenrock",
@@ -204,6 +211,7 @@
     },
     {
         "code": "0139",
+        "id": 0139,
         "phg_id": 66,
         "card_name": "Maeoni Viper",
         "subname": "PB of Silverwood",
@@ -233,6 +241,7 @@
     },
     {
         "code": "0152",
+        "id": 0152,
         "phg_id": 53,
         "card_name": "Noah Redmoon",
         "subname": "PB of Viros",
@@ -262,6 +271,7 @@
     },
     {
         "code": "9805",
+        "id": 9805,
         "phg_id": 5660,
         "card_name": "Orrick Gilstream",
         "subname": "PB of Gobi",
@@ -291,6 +301,7 @@
     },
     {
         "code": "0213",
+        "id": 0213,
         "phg_id": 2152,
         "card_name": "Rin Northfell",
         "subname": "PB of Frostdale",
@@ -320,6 +331,7 @@
     },
     {
         "code": "0166",
+        "id": 0166,
         "phg_id": 13,
         "card_name": "Saria Guideman",
         "subname": "Phoenixborn of Lighthouse Bay",
@@ -349,6 +361,7 @@
     },
     {
         "code": "0315",
+        "id": 0315,
         "phg_id": 5149,
         "card_name": "Victoria Glassfire",
         "subname": "PB of Smogborough",
@@ -378,6 +391,7 @@
     },
     {
         "code": "0173",
+        "id": 0173,
         "phg_id": 18,
         "card_name": "Abundance",
         "subname": "NULL",
@@ -407,6 +421,7 @@
     },
     {
         "code": "0307",
+        "id": 0307,
         "phg_id": 5565,
         "card_name": "Amplify",
         "subname": "NULL",
@@ -436,6 +451,7 @@
     },
     {
         "code": "0117",
+        "id": 0117,
         "phg_id": 4,
         "card_name": "Anchornaut",
         "subname": "NULL",
@@ -465,6 +481,7 @@
     },
     {
         "code": "0302",
+        "id": 0302,
         "phg_id": 5209,
         "card_name": "Anguish",
         "subname": "NULL",
@@ -494,6 +511,7 @@
     },
     {
         "code": "0306",
+        "id": 0306,
         "phg_id": 5566,
         "card_name": "Beast Tamer",
         "subname": "NULL",
@@ -523,6 +541,7 @@
     },
     {
         "code": "0203",
+        "id": 0203,
         "phg_id": 2140,
         "card_name": "Blackcloud Ninja",
         "subname": "NULL",
@@ -552,6 +571,7 @@
     },
     {
         "code": "0129",
+        "id": 0129,
         "phg_id": 43,
         "card_name": "Blood Archer",
         "subname": "NULL",
@@ -581,6 +601,7 @@
     },
     {
         "code": "0202",
+        "id": 0202,
         "phg_id": 2628,
         "card_name": "Blood Chains",
         "subname": "NULL",
@@ -610,6 +631,7 @@
     },
     {
         "code": "0138",
+        "id": 0138,
         "phg_id": 45,
         "card_name": "Blood Puppet",
         "subname": "NULL",
@@ -639,6 +661,7 @@
     },
     {
         "code": "0135",
+        "id": 0135,
         "phg_id": 47,
         "card_name": "Blood Transfer",
         "subname": "NULL",
@@ -668,6 +691,7 @@
     },
     {
         "code": "0112",
+        "id": 0112,
         "phg_id": 32,
         "card_name": "Blue Jaguar",
         "subname": "NULL",
@@ -697,6 +721,7 @@
     },
     {
         "code": "0318",
+        "id": 0318,
         "phg_id": 5325,
         "card_name": "Body Inversion",
         "subname": "NULL",
@@ -726,6 +751,7 @@
     },
     {
         "code": "0153",
+        "id": 0153,
         "phg_id": 52,
         "card_name": "Bound Soul",
         "subname": "NULL",
@@ -755,6 +781,7 @@
     },
     {
         "code": "0156",
+        "id": 0156,
         "phg_id": 56,
         "card_name": "Bring Forth",
         "subname": "NULL",
@@ -784,6 +811,7 @@
     },
     {
         "code": "0113",
+        "id": 0113,
         "phg_id": 26,
         "card_name": "Butterfly Monk",
         "subname": "NULL",
@@ -813,6 +841,7 @@
     },
     {
         "code": "0140",
+        "id": 0140,
         "phg_id": 68,
         "card_name": "Call Upon the Realms",
         "subname": "NULL",
@@ -842,6 +871,7 @@
     },
     {
         "code": "0303",
+        "id": 0303,
         "phg_id": 5564,
         "card_name": "Change Psyche",
         "subname": "NULL",
@@ -871,6 +901,7 @@
     },
     {
         "code": "0209",
+        "id": 0209,
         "phg_id": 2362,
         "card_name": "Chant of Protection",
         "subname": "NULL",
@@ -900,6 +931,7 @@
     },
     {
         "code": "0121",
+        "id": 0121,
         "phg_id": 5,
         "card_name": "Chant of Revenge",
         "subname": "NULL",
@@ -929,6 +961,7 @@
     },
     {
         "code": "0210",
+        "id": 0210,
         "phg_id": 2363,
         "card_name": "Chant of the Dead",
         "subname": "NULL",
@@ -958,6 +991,7 @@
     },
     {
         "code": "0208",
+        "id": 0208,
         "phg_id": 2884,
         "card_name": "Choke",
         "subname": "NULL",
@@ -987,6 +1021,7 @@
     },
     {
         "code": "0204",
+        "id": 0204,
         "phg_id": 2210,
         "card_name": "Crimson Bomber",
         "subname": "NULL",
@@ -1016,6 +1051,7 @@
     },
     {
         "code": "0217",
+        "id": 0217,
         "phg_id": 2413,
         "card_name": "Crystal Shield",
         "subname": "NULL",
@@ -1045,6 +1081,7 @@
     },
     {
         "code": "0136",
+        "id": 0136,
         "phg_id": 41,
         "card_name": "Cut the Strings",
         "subname": "NULL",
@@ -1074,6 +1111,7 @@
     },
     {
         "code": "0218",
+        "id": 0218,
         "phg_id": 2568,
         "card_name": "Deep Freeze",
         "subname": "NULL",
@@ -1103,6 +1141,7 @@
     },
     {
         "code": "0304",
+        "id": 0304,
         "phg_id": 5402,
         "card_name": "Dispel",
         "subname": "NULL",
@@ -1132,6 +1171,7 @@
     },
     {
         "code": "0212",
+        "id": 0212,
         "phg_id": 2724,
         "card_name": "Dread Wraith",
         "subname": "NULL",
@@ -1161,6 +1201,7 @@
     },
     {
         "code": "0146",
+        "id": 0146,
         "phg_id": 69,
         "card_name": "Empower",
         "subname": "NULL",
@@ -1190,6 +1231,7 @@
     },
     {
         "code": "0170",
+        "id": 0170,
         "phg_id": 19,
         "card_name": "Enchanted Violinist",
         "subname": "NULL",
@@ -1219,6 +1261,7 @@
     },
     {
         "code": "0122",
+        "id": 0122,
         "phg_id": 6,
         "card_name": "Expand Energy",
         "subname": "NULL",
@@ -1248,6 +1291,7 @@
     },
     {
         "code": "0157",
+        "id": 0157,
         "phg_id": 59,
         "card_name": "Fade Away",
         "subname": "NULL",
@@ -1277,6 +1321,7 @@
     },
     {
         "code": "0163",
+        "id": 0163,
         "phg_id": 57,
         "card_name": "False Demon",
         "subname": "NULL",
@@ -1306,6 +1351,7 @@
     },
     {
         "code": "0128",
+        "id": 0128,
         "phg_id": 44,
         "card_name": "Fear",
         "subname": "NULL",
@@ -1335,6 +1381,7 @@
     },
     {
         "code": "0319",
+        "id": 0319,
         "phg_id": 5643,
         "card_name": "Figures in the Fog",
         "subname": "NULL",
@@ -1364,6 +1411,7 @@
     },
     {
         "code": "0133",
+        "id": 0133,
         "phg_id": 48,
         "card_name": "Final Cry",
         "subname": "NULL",
@@ -1393,6 +1441,7 @@
     },
     {
         "code": "0205",
+        "id": 0205,
         "phg_id": 2506,
         "card_name": "Fire Archer",
         "subname": "NULL",
@@ -1422,6 +1471,7 @@
     },
     {
         "code": "0317",
+        "id": 0317,
         "phg_id": 5644,
         "card_name": "Flash Archer",
         "subname": "NULL",
@@ -1451,6 +1501,7 @@
     },
     {
         "code": "0214",
+        "id": 0214,
         "phg_id": 2936,
         "card_name": "Freezing Blast",
         "subname": "NULL",
@@ -1480,6 +1531,7 @@
     },
     {
         "code": "0221",
+        "id": 0221,
         "phg_id": 2772,
         "card_name": "Frost Bite",
         "subname": "NULL",
@@ -1509,6 +1561,7 @@
     },
     {
         "code": "0216",
+        "id": 0216,
         "phg_id": 2261,
         "card_name": "Frost Fang",
         "subname": "NULL",
@@ -1538,6 +1591,7 @@
     },
     {
         "code": "0224",
+        "id": 0224,
         "phg_id": 2262,
         "card_name": "Frostback Bear",
         "subname": "NULL",
@@ -1567,6 +1621,7 @@
     },
     {
         "code": "0219",
+        "id": 0219,
         "phg_id": 2414,
         "card_name": "Frozen Crown",
         "subname": "NULL",
@@ -1596,6 +1651,7 @@
     },
     {
         "code": "0150",
+        "id": 0150,
         "phg_id": 70,
         "card_name": "Gilder",
         "subname": "NULL",
@@ -1625,6 +1681,7 @@
     },
     {
         "code": "0312",
+        "id": 0312,
         "phg_id": 5207,
         "card_name": "Glow Finch",
         "subname": "NULL",
@@ -1654,6 +1711,7 @@
     },
     {
         "code": "9806",
+        "id": 9806,
         "phg_id": 99999,
         "card_name": "Gobi Sunshield",
         "subname": "NULL",
@@ -1683,6 +1741,7 @@
     },
     {
         "code": "0145",
+        "id": 0145,
         "phg_id": 71,
         "card_name": "Golden Veil",
         "subname": "NULL",
@@ -1712,6 +1771,7 @@
     },
     {
         "code": "0118",
+        "id": 0118,
         "phg_id": 7,
         "card_name": "Hammer Knight",
         "subname": "NULL",
@@ -1741,6 +1801,7 @@
     },
     {
         "code": "0167",
+        "id": 0167,
         "phg_id": 20,
         "card_name": "Hidden Power",
         "subname": "NULL",
@@ -1770,6 +1831,7 @@
     },
     {
         "code": "0147",
+        "id": 0147,
         "phg_id": 72,
         "card_name": "Hypnotize",
         "subname": "NULL",
@@ -1799,6 +1861,7 @@
     },
     {
         "code": "0225",
+        "id": 0225,
         "phg_id": 2151,
         "card_name": "Ice Buff",
         "subname": "NULL",
@@ -1828,6 +1891,7 @@
     },
     {
         "code": "0226",
+        "id": 0226,
         "phg_id": 2722,
         "card_name": "Ice Golem",
         "subname": "NULL",
@@ -1857,6 +1921,7 @@
     },
     {
         "code": "0220",
+        "id": 0220,
         "phg_id": 2567,
         "card_name": "Ice Trap",
         "subname": "NULL",
@@ -1886,6 +1951,7 @@
     },
     {
         "code": "0316",
+        "id": 0316,
         "phg_id": 5150,
         "card_name": "Illusionary Cycle",
         "subname": "NULL",
@@ -1915,6 +1981,7 @@
     },
     {
         "code": "0126",
+        "id": 0126,
         "phg_id": 8,
         "card_name": "Iron Rhino",
         "subname": "NULL",
@@ -1944,6 +2011,7 @@
     },
     {
         "code": "0119",
+        "id": 0119,
         "phg_id": 10,
         "card_name": "Iron Worker",
         "subname": "NULL",
@@ -1973,6 +2041,7 @@
     },
     {
         "code": "0130",
+        "id": 0130,
         "phg_id": 42,
         "card_name": "Leech Warrior",
         "subname": "NULL",
@@ -2002,6 +2071,7 @@
     },
     {
         "code": "0131",
+        "id": 0131,
         "phg_id": 49,
         "card_name": "Living Doll",
         "subname": "NULL",
@@ -2031,6 +2101,7 @@
     },
     {
         "code": "0164",
+        "id": 0164,
         "phg_id": 54,
         "card_name": "Masked Wolf",
         "subname": "NULL",
@@ -2060,6 +2131,7 @@
     },
     {
         "code": "0105",
+        "id": 0105,
         "phg_id": 28,
         "card_name": "Massive Growth",
         "subname": "NULL",
@@ -2089,6 +2161,7 @@
     },
     {
         "code": "0309",
+        "id": 0309,
         "phg_id": 5399,
         "card_name": "Memory Theft",
         "subname": "NULL",
@@ -2118,6 +2191,7 @@
     },
     {
         "code": "0305",
+        "id": 0305,
         "phg_id": 5401,
         "card_name": "Mind Probe",
         "subname": "NULL",
@@ -2147,6 +2221,7 @@
     },
     {
         "code": "0114",
+        "id": 0114,
         "phg_id": 27,
         "card_name": "Mist Spirit",
         "subname": "NULL",
@@ -2176,6 +2251,7 @@
     },
     {
         "code": "0102",
+        "id": 0102,
         "phg_id": 29,
         "card_name": "Mist Typhoon",
         "subname": "NULL",
@@ -2205,6 +2281,7 @@
     },
     {
         "code": "0141",
+        "id": 0141,
         "phg_id": 73,
         "card_name": "Molten Gold",
         "subname": "NULL",
@@ -2234,6 +2311,7 @@
     },
     {
         "code": "0313",
+        "id": 0313,
         "phg_id": 5696,
         "card_name": "Nightshade Swallow",
         "subname": "NULL",
@@ -2263,6 +2341,7 @@
     },
     {
         "code": "0116",
+        "id": 0116,
         "phg_id": 3,
         "card_name": "One Hundred Blades",
         "subname": "NULL",
@@ -2292,6 +2371,7 @@
     },
     {
         "code": "0142",
+        "id": 0142,
         "phg_id": 74,
         "card_name": "Open Memories",
         "subname": "NULL",
@@ -2321,6 +2401,7 @@
     },
     {
         "code": "0314",
+        "id": 0314,
         "phg_id": 5698,
         "card_name": "Orchid Dove",
         "subname": "NULL",
@@ -2350,6 +2431,7 @@
     },
     {
         "code": "0103",
+        "id": 0103,
         "phg_id": 30,
         "card_name": "Out of the Mist",
         "subname": "NULL",
@@ -2379,6 +2461,7 @@
     },
     {
         "code": "0320",
+        "id": 0320,
         "phg_id": 5562,
         "card_name": "Particle Shield",
         "subname": "NULL",
@@ -2408,6 +2491,7 @@
     },
     {
         "code": "9804",
+        "id": 9804,
         "phg_id": 1438,
         "card_name": "Phoenix Barrage",
         "subname": "NULL",
@@ -2437,6 +2521,7 @@
     },
     {
         "code": "0206",
+        "id": 0206,
         "phg_id": 2211,
         "card_name": "Poison",
         "subname": "NULL",
@@ -2466,6 +2551,7 @@
     },
     {
         "code": "0123",
+        "id": 0123,
         "phg_id": 11,
         "card_name": "Protect",
         "subname": "NULL",
@@ -2495,6 +2581,7 @@
     },
     {
         "code": "0174",
+        "id": 0174,
         "phg_id": 21,
         "card_name": "Purge",
         "subname": "NULL",
@@ -2524,6 +2611,7 @@
     },
     {
         "code": "9802",
+        "id": 9802,
         "phg_id": 105,
         "card_name": "Rayward Knight",
         "subname": "NULL",
@@ -2553,6 +2641,7 @@
     },
     {
         "code": "0134",
+        "id": 0134,
         "phg_id": 50,
         "card_name": "Redirect",
         "subname": "NULL",
@@ -2582,6 +2671,7 @@
     },
     {
         "code": "0106",
+        "id": 0106,
         "phg_id": 33,
         "card_name": "Reflections in the Water",
         "subname": "NULL",
@@ -2611,6 +2701,7 @@
     },
     {
         "code": "0143",
+        "id": 0143,
         "phg_id": 75,
         "card_name": "Refresh",
         "subname": "NULL",
@@ -2640,6 +2731,7 @@
     },
     {
         "code": "0207",
+        "id": 0207,
         "phg_id": 2627,
         "card_name": "Regress",
         "subname": "NULL",
@@ -2669,6 +2761,7 @@
     },
     {
         "code": "0308",
+        "id": 0308,
         "phg_id": 5695,
         "card_name": "Remorse",
         "subname": "NULL",
@@ -2698,6 +2791,7 @@
     },
     {
         "code": "0215",
+        "id": 0215,
         "phg_id": 2153,
         "card_name": "Rin's Fury",
         "subname": "NULL",
@@ -2727,6 +2821,7 @@
     },
     {
         "code": "0107",
+        "id": 0107,
         "phg_id": 34,
         "card_name": "Root Armor",
         "subname": "NULL",
@@ -2756,6 +2851,7 @@
     },
     {
         "code": "0171",
+        "id": 0171,
         "phg_id": 22,
         "card_name": "Rose Fire Dancer",
         "subname": "NULL",
@@ -2785,6 +2881,7 @@
     },
     {
         "code": "0168",
+        "id": 0168,
         "phg_id": 23,
         "card_name": "Seal",
         "subname": "NULL",
@@ -2814,6 +2911,7 @@
     },
     {
         "code": "0177",
+        "id": 0177,
         "phg_id": 14,
         "card_name": "Seaside Raven",
         "subname": "NULL",
@@ -2843,6 +2941,7 @@
     },
     {
         "code": "0322",
+        "id": 0322,
         "phg_id": 5561,
         "card_name": "Secret Door",
         "subname": "NULL",
@@ -2872,6 +2971,7 @@
     },
     {
         "code": "0158",
+        "id": 0158,
         "phg_id": 60,
         "card_name": "Shadow Counter",
         "subname": "NULL",
@@ -2901,6 +3001,7 @@
     },
     {
         "code": "0326",
+        "id": 0326,
         "phg_id": 5323,
         "card_name": "Shadow Hound",
         "subname": "NULL",
@@ -2930,6 +3031,7 @@
     },
     {
         "code": "0327",
+        "id": 0327,
         "phg_id": 5321,
         "card_name": "Shadow Spirit",
         "subname": "NULL",
@@ -2959,6 +3061,7 @@
     },
     {
         "code": "0108",
+        "id": 0108,
         "phg_id": 35,
         "card_name": "Shifting Mist",
         "subname": "NULL",
@@ -2988,6 +3091,7 @@
     },
     {
         "code": "0151",
+        "id": 0151,
         "phg_id": 67,
         "card_name": "Silver Snake",
         "subname": "NULL",
@@ -3017,6 +3121,7 @@
     },
     {
         "code": "0165",
+        "id": 0165,
         "phg_id": 58,
         "card_name": "Sleeping Widow",
         "subname": "NULL",
@@ -3046,6 +3151,7 @@
     },
     {
         "code": "0154",
+        "id": 0154,
         "phg_id": 61,
         "card_name": "Sleight of Hand",
         "subname": "NULL",
@@ -3075,6 +3181,7 @@
     },
     {
         "code": "0160",
+        "id": 0160,
         "phg_id": 62,
         "card_name": "Small Sacrifice",
         "subname": "NULL",
@@ -3103,7 +3210,8 @@
         "flavor_text": "NULL"
     },
     {
-        "code": "0120" ,
+        "code": "0120",
+        "id": 0120,
         "phg_id": 12,
         "card_name": "Spiked Armor",
         "subname": "NULL",
@@ -3133,6 +3241,7 @@
     },
     {
         "code": "0104",
+        "id": 0104,
         "phg_id": 36,
         "card_name": "Steady Gaze",
         "subname": "NULL",
@@ -3162,6 +3271,7 @@
     },
     {
         "code": "0155",
+        "id": 0155,
         "phg_id": 63,
         "card_name": "Stormwind Sniper",
         "subname": "NULL",
@@ -3191,6 +3301,7 @@
     },
     {
         "code": "0169",
+        "id": 0169,
         "phg_id": 25,
         "card_name": "Strange Copy",
         "subname": "NULL",
@@ -3220,6 +3331,7 @@
     },
     {
         "code": "0125",
+        "id": 0125,
         "phg_id": 2,
         "card_name": "Strengthen",
         "subname": "NULL",
@@ -3249,6 +3361,7 @@
     },
     {
         "code": "0137",
+        "id": 0137,
         "phg_id": 46,
         "card_name": "Summon Blood Puppet",
         "subname": "NULL",
@@ -3278,6 +3391,7 @@
     },
     {
         "code": "0109",
+        "id": 0109,
         "phg_id": 37,
         "card_name": "Summon Blue Jaguar",
         "subname": "NULL",
@@ -3307,6 +3421,7 @@
     },
     {
         "code": "0110",
+        "id": 0110,
         "phg_id": 38,
         "card_name": "Summon Butterfly Monk",
         "subname": "NULL",
@@ -3336,6 +3451,7 @@
     },
     {
         "code": "0211",
+        "id": 0211,
         "phg_id": 2725,
         "card_name": "Summon Dread Wraith",
         "subname": "NULL",
@@ -3365,6 +3481,7 @@
     },
     {
         "code": "0161",
+        "id": 0161,
         "phg_id": 64,
         "card_name": "Summon False Demon",
         "subname": "NULL",
@@ -3394,6 +3511,7 @@
     },
     {
         "code": "0222",
+        "id": 0222,
         "phg_id": 2263,
         "card_name": "Summon Frostback Bear",
         "subname": "NULL",
@@ -3423,6 +3541,7 @@
     },
     {
         "code": "0148",
+        "id": 0148,
         "phg_id": 76,
         "card_name": "Summon Gilder",
         "subname": "NULL",
@@ -3452,6 +3571,7 @@
     },
     {
         "code": "0223",
+        "id": 0223,
         "phg_id": 2723,
         "card_name": "Summon Ice Golem",
         "subname": "NULL",
@@ -3481,6 +3601,7 @@
     },
     {
         "code": "0124",
+        "id": 0124,
         "phg_id": 9,
         "card_name": "Summon Iron Rhino",
         "subname": "NULL",
@@ -3510,6 +3631,7 @@
     },
     {
         "code": "0162",
+        "id": 0162,
         "phg_id": 55,
         "card_name": "Summon Masked Wolf",
         "subname": "NULL",
@@ -3539,6 +3661,7 @@
     },
     {
         "code": "0111",
+        "id": 0111,
         "phg_id": 39,
         "card_name": "Summon Mist Spirit",
         "subname": "NULL",
@@ -3568,6 +3691,7 @@
     },
     {
         "code": "0310",
+        "id": 0310,
         "phg_id": 5697,
         "card_name": "Summon Nightshade Swallow",
         "subname": "NULL",
@@ -3597,6 +3721,7 @@
     },
     {
         "code": "0311",
+        "id": 0311,
         "phg_id": 5699,
         "card_name": "Summon Orchid Dove",
         "subname": "NULL",
@@ -3626,6 +3751,7 @@
     },
     {
         "code": "0175",
+        "id": 0175,
         "phg_id": 15,
         "card_name": "Summon Seaside Raven",
         "subname": "NULL",
@@ -3655,6 +3781,7 @@
     },
     {
         "code": "0323",
+        "id": 0323,
         "phg_id": 5324,
         "card_name": "Summon Shadow Hound",
         "subname": "NULL",
@@ -3684,6 +3811,7 @@
     },
     {
         "code": "0324",
+        "id": 0324,
         "phg_id": 5322,
         "card_name": "Summon Shadow Spirit",
         "subname": "NULL",
@@ -3713,6 +3841,7 @@
     },
     {
         "code": "0149",
+        "id": 0149,
         "phg_id": 77,
         "card_name": "Summon Silver Snake",
         "subname": "NULL",
@@ -3742,6 +3871,7 @@
     },
     {
         "code": "0159",
+        "id": 0159,
         "phg_id": 65,
         "card_name": "Summon Sleeping Widows",
         "subname": "NULL",
@@ -3771,6 +3901,7 @@
     },
     {
         "code": "0176",
+        "id": 0176,
         "phg_id": 17,
         "card_name": "Summon Three-Eyed Owl",
         "subname": "NULL",
@@ -3800,6 +3931,7 @@
     },
     {
         "code": "0172",
+        "id": 0172,
         "phg_id": 24,
         "card_name": "Sympathy Pain",
         "subname": "NULL",
@@ -3829,6 +3961,7 @@
     },
     {
         "code": "0178",
+        "id": 0178,
         "phg_id": 16,
         "card_name": "Three-Eyed Owl",
         "subname": "NULL",
@@ -3858,6 +3991,7 @@
     },
     {
         "code": "0325",
+        "id": 0325,
         "phg_id": 5645,
         "card_name": "To Shadows",
         "subname": "NULL",
@@ -3887,6 +4021,7 @@
     },
     {
         "code": "0144",
+        "id": 0144,
         "phg_id": 78,
         "card_name": "Transfer",
         "subname": "NULL",
@@ -3916,6 +4051,7 @@
     },
     {
         "code": "0132",
+        "id": 0132,
         "phg_id": 51,
         "card_name": "Undying Heart",
         "subname": "NULL",
@@ -3945,6 +4081,7 @@
     },
     {
         "code": "0321",
+        "id": 0321,
         "phg_id": 5563,
         "card_name": "Vanish",
         "subname": "NULL",
