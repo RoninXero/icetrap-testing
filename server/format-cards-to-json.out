@@ -1,0 +1,7 @@
+cat sorted-cards-all.out |sed -e '/NULL/d' -e '/"id"/d' -e 's/phg_id/id/g' | tr -d '\n' |sed -e 's/},/}\n/g' > ashes-cards.json 
+cat ashes-cards.json | sed -e 's/, *"/, "/g' -e 's/{ *"/{ "/g' -e 's/^ *{/{/' -e 's/, *}/ }/' -e 's/" *}/" }/' > ashes-cards.new.json
+
+
+in vim to remove " "'s from numbers
+
+:1,$s/"\([0-9]*\)"/\1/g

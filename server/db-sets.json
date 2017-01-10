@@ -1,0 +1,8 @@
+{"id": 1,  "phg_part_num": "PHG12000", "name": "Ashes: Rise of the Phoenixborn", "abbr": "Core"}
+{"id": 2,  "phg_part_num": "PHG12001", "name": "The Children of Blackcloud",     "abbr": "CoB"}
+{"id": 3,  "phg_part_num": "PHG12002", "name": "The Frostdale Giants",           "abbr": "FG"}
+{"id": 4,  "phg_part_num": "PHG12003", "name": "The Roaring Rose",               "abbr": "RR"}
+{"id": 5,  "phg_part_num": "PHG12004", "name": "The Duchess of Deception",       "abbr": "DoD"}
+{"id": 98, "phg_part_num": "PHGSTORE", "name": "PHGStore",                       "abbr": "PHGStore"}
+{"id": 99, "phg_part_num": "PROMO",    "name": "Promo",                          "abbr": "Promo"}
+
