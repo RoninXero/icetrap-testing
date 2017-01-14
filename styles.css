@@ -1,0 +1,146 @@
+/*
+STYLES.CSS
+
+Author:  RoninXero
+Website: none, yet!
+*/
+
+html,
+body {
+    max-height: 100%;
+    background-image: url('images/icetrap-main-page2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-color: transparent;
+    /* max-width: 100%; */
+}
+
+img {
+    max-width: 100%;
+}
+
+nav{
+  display: flex;
+}
+.navbar {
+  /* color: rgba(0, 0, 0, 0.2) !important; */
+  background-color: rgba(0, 0, 0, 0.7) !important;
+  /* height: 1.5rem;*/
+  padding: 0 1rem;
+}
+
+.navbar .divider-vertical {
+  height: auto;
+  margin: 0 9px;
+  border-right: 1px solid #fff;
+  border-left: 1px solid #f2f2f2;
+}
+
+.navbar-inverse .divider-vertical {
+    border-right-color: #222222;
+    border-left-color: #111111;
+}
+
+/*
+.nav-item{
+  /* font-size: .6rem; */
+  padding: .1rem
+}
+*/
+
+a {
+  color:inherit;
+  text-decoration: none !important;
+  cursor:pointer !important;
+  -webkit-transition: all 0.5s ease-in-out !important;
+  -moz-transition: all 0.5s ease-in-out !important;
+  -ms-transition: all 0.5s ease-out !important;
+  -o-transition: all 0.5s ease-in-out !important;
+  transition: all 0.5s ease-in-out !important;
+}
+a:hover {
+  color: #00aeff !important;
+  text-decoration: none !important;
+}
+
+/* chat screen */
+.main-background {
+  background-color: rgba(39, 56, 76, .8);
+  /* margin: .2rem; */
+
+}
+
+.padded-box {
+  /*background-color: transparent;*/
+  padding: 2px;
+}
+
+.blue-shade {
+  background-color: rgba(39,56,76,0.82);
+  -moz-box-shadow: 0 0 12px rgba(0,0,0,0.4), inset 0 0 0 1px rgba(255,255,255,0.1);
+  -webkit-box-shadow: 0 0 12px rgba(0,0,0,0.4), inset 0 0 0 1px rgba(255,255,255,0.1);
+  box-shadow: 0 0 12px rgba(0,0,0,0.4), inset 0 0 0 1px rgba(255,255,255,0.1);
+  /* margin: 2px; */
+}
+
+.panel {
+  background-color: rgba(41, 43, 44, .8);
+  -moz-box-shadow: 0 0 12px rgba(0,0,0,0.4), inset 0 0 0 2px rgba(255,255,255,0.1);
+  -webkit-box-shadow: 0 0 12px rgba(0,0,0,0.4), inset 0 0 0 2px rgba(255,255,255,0.1);
+  box-shadow: 0 0 12px rgba(0,0,0,0.4), inset 0 0 0 1px rgba(255,255,255,0.1);
+  border-radius: 8px;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.chat-input {
+  background-color: rgba(41, 43, 44, .8);
+  -moz-box-shadow: 0 0 12px rgba(0,0,0,0.4), inset 0 0 0 2px rgba(255,255,255,0.1);
+  -webkit-box-shadow: 0 0 12px rgba(0,0,0,0.4), inset 0 0 0 2px rgba(255,255,255,0.1);
+  box-shadow: 0 0 12px rgba(0,0,0,0.4), inset 0 0 0 1px rgba(255,255,255,0.1);
+  border-radius: 3px;
+  max-width: 100%;
+
+}
+
+.chat-time, .chat-message, .chat-channel, .news, .chat-input, .chat-username, .chat-time {
+  color: #ccc;
+  font-size: .9rem;
+}
+
+.chat-message {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.chat-username {
+  font-weight: bold;
+  padding-right: 3px;
+}
+
+.chat-time {
+  font-size: small;
+}
+
+.chat-avatar {
+  vertical-align: middle;
+  height: 38px;
+  width: 38px;
+  border-radius: 5px;
+  margin-right: 5px;
+  max-width: 100%;
+}
+
+.chat-content{
+  max-height: 100%;
+}
+/*
+.navbar-nav > li > a {
+  padding-top:5px !important;
+  padding-bottom:5px !important;
+}
+.navbar {
+  min-height:32px !important;
+}
+*/
