@@ -12,3 +12,10 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
+
+
+
+.nav-link, .navbar-text {
+  font-size: .9rem;
+}
