@@ -14,8 +14,27 @@ html {
 }
 
 
+.navbar {
+  max-height: 1.5rem;
+  min-height: 1.5rem;
+  /* background-color: rgba(41, 43, 44, .4) !important; */
+  /* background-color: rgba(0, 0, 0, 0.4) !important; */
 
+}
+
+
+/*
+.bg-inverse, .navbar-inverse, .nav-link, .nav-item, .navbar-nav {
+  background-color: rgba(0, 0, 0, .5) !important;
+}
+*/
 
 .nav-link, .navbar-text {
   font-size: .9rem;
+}
+
+/* TODO: fix toggler button */
+.navbar-toggler {
+  margin: 0;
+  font-size: .5rem;
 }
