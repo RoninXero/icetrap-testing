@@ -5,7 +5,8 @@ Author:  RoninXero
 Website: none, yet!
 */
 
-html {
+/* html { Use body to allow for transparent navbar */
+body {
   background: url('images/icetrap-main-page2.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -13,21 +14,32 @@ html {
   background-size: cover;
 }
 
+a {
+  transition: color .2s ease-in-out !important;
+  color: LightGray !important;
+}
+
+a:hover {
+  color: Lime !important;
+  /* or Gold */
+}
+
+.active {
+  color: Lime !important;
+}
 
 .navbar {
   max-height: 1.5rem;
   min-height: 1.5rem;
-  /* background-color: rgba(41, 43, 44, .4) !important; */
-  /* background-color: rgba(0, 0, 0, 0.4) !important; */
-
+  background-color: rgba(41, 43, 44, 0.8) !important;
 }
 
-
-/*
-.bg-inverse, .navbar-inverse, .nav-link, .nav-item, .navbar-nav {
-  background-color: rgba(0, 0, 0, .5) !important;
+.vertical-divider {
+  margin-left: .5rem;
+  max-height: 1.85rem;
+  /* border-left: 2px solid rgb(41, 43, 44);*/
+  border-left: 2px solid LightGray;
 }
-*/
 
 .nav-link, .navbar-text {
   font-size: .9rem;
