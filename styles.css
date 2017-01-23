@@ -5,6 +5,12 @@ Author:  RoninXero
 Website: none, yet!
 */
 
+html{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 /* html { Use body to allow for transparent navbar */
 body {
   background: url('images/icetrap-main-page2.jpg') no-repeat center center fixed;
@@ -12,10 +18,13 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  margin: 0;
+  padding: 0;
+  height: 100%;
 }
 
 a {
-  transition: color .2s ease-in-out !important;
+  transition: color .6s ease-in-out !important;
   color: LightGray !important;
 }
 
@@ -49,4 +58,29 @@ a:hover {
 .navbar-toggler {
   margin: 0;
   font-size: .5rem;
+}
+
+.panel {
+  height: 100%;
+  border: 1px solid black;
+  border-radius: .5rem;
+}
+/*
+.container {
+  height: 90%;
+  background-color: rgba(41, 43, 44, 0.8) !important;
+  border-radius: .5rem;
+}
+*/
+
+#main {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+}
+
+.container {
+  overflow-y: hidden;
+  background-color: rgba(41, 43, 44, 0.8) !important;
+  border-radius: .5rem;
 }
